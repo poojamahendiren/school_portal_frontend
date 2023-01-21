@@ -1,0 +1,13 @@
+
+.col-4{
+  float:left;
+  width:20%;
+  padding:15px;
+
+}
+
+.row::after{
+  content: "";
+  clear:both;
+  display: table;
+}

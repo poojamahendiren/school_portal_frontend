@@ -1,0 +1,19 @@
+.header1 {
+    
+    top: 0;
+    left: 0;
+    width:50%;
+    
+    background-color: "white";
+    color: #020202;
+    font-family:  sans-serif;
+    padding-right: 100px;
+    height:"20";
+    margin-top:10px;
+   
+  }
+  
+  .header10{
+    width:50%;
+    color:black;
+  }
